@@ -1,16 +1,4 @@
-# Vue 3 + Node.JS + Vite
-
-## установить фреймворк Express
-npm install --save express
-
-## установить passport
-npm install passport-jwt
-
-## установить библиотеку уведомлений
-npm install vue3-snackbar
-
-## чтобы на бэке обмениваться запросами
-npm install --save cross-fetch
+# Проект пока в разработке 
 
 ## Как это работает 
 
